@@ -12,6 +12,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+
+        // New Changes Here
+        doSmth1()
+
+    }
+
+    private func doSmth1() {
+
     }
 
 
