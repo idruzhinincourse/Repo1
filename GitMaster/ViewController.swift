@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
 
         // New Changes Here
+        doSmth()
+
+    }
+
+    private func doSmth() {
 
     }
 
